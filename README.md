@@ -6,5 +6,5 @@
 
 ![description image 1](https://github.com/UniversalCorn/gamedev-lab-3/blob/main/Project/description/1.png)
 
-### You can see behaviour on the video:
-https://github.com/UniversalCorn/gamedev-lab-3/blob/main/Project/description/1.mp4
+### You can see behaviour on the gif:
+![description image 2](https://github.com/UniversalCorn/gamedev-lab-3/blob/main/Project/description/1.gif)
